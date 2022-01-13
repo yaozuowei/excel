@@ -48,6 +48,7 @@ public class DemoController {
                 System.out.println(111);
                 System.out.println(222);
                 System.out.println(333);
+                System.out.println(444);
                 List<UoAdUser> uoAdUsers=uoAdUserMapper.selectByExample(uoAdUserExample);
                 if (uoAdUsers!=null&&!uoAdUsers.isEmpty()){
                     UoAdUser user=uoAdUsers.get(0);
