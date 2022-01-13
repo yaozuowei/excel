@@ -47,6 +47,7 @@ public class DemoController {
                 uoAdUserExample.createCriteria().andUserGuidEqualTo(row.getCell(1).toString().trim());
                 System.out.println(111);
                 System.out.println(222);
+                System.out.println(333);
                 List<UoAdUser> uoAdUsers=uoAdUserMapper.selectByExample(uoAdUserExample);
                 if (uoAdUsers!=null&&!uoAdUsers.isEmpty()){
                     UoAdUser user=uoAdUsers.get(0);
