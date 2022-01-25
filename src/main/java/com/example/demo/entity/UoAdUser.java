@@ -5,7 +5,7 @@ import java.util.Date;
 public class UoAdUser{
     /**
      * 用户GUID
-     * 表字段 : t_uoad_user.USER_GUID
+     * 表字段 : t_uoad_user.USER_GUID1
      */
     private String userGuid;
 
