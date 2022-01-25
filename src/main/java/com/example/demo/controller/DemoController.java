@@ -53,7 +53,7 @@ public class DemoController {
                     uoAdUserMapper.updateByPrimaryKeySelective(user);
                 }
                 System.out.println("成功--"+rowNum);
-                System.out.println(222);
+                System.out.println(22233);
             }
 
         } catch (FileNotFoundException e) {
