@@ -11,13 +11,13 @@ public class UoAdUser{
 
     /**
      * 创建时间
-     * 表字段 : t_uoad_user.CREATE_DATE222
+     * 表字段 : t_uoad_user.CREATE_DATE2
      */
     private Date createDate;
 
     /**
      * 最后修改时间
-     * 表字段 : t_uoad_user.UPDATE_DATE333
+     * 表字段 : t_uoad_user.UPDATE_DATE3
      */
     private Date updateDate;
 
