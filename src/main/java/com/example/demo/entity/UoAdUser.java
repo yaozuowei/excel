@@ -5,19 +5,19 @@ import java.util.Date;
 public class UoAdUser{
     /**
      * 用户GUID
-     * 表字段 : t_uoad_user.USER_GUID1
+     * 表字段 : t_uoad_user.USER_GUID1111
      */
     private String userGuid;
 
     /**
      * 创建时间
-     * 表字段 : t_uoad_user.CREATE_DATE
+     * 表字段 : t_uoad_user.CREATE_DATE222
      */
     private Date createDate;
 
     /**
      * 最后修改时间
-     * 表字段 : t_uoad_user.UPDATE_DATE
+     * 表字段 : t_uoad_user.UPDATE_DATE333
      */
     private Date updateDate;
 
