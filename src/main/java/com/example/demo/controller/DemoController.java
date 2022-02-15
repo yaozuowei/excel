@@ -53,7 +53,7 @@ public class DemoController {
                     user.setPostGroup(row.getCell(2).toString().trim());
                     uoAdUserMapper.updateByPrimaryKeySelective(user);
                 }
-                System.out.println("成功--"+rowNum);
+                System.out.println("11成功--"+rowNum);
                 System.out.println(22233);
             }
 
