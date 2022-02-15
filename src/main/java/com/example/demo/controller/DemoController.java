@@ -45,6 +45,8 @@ public class DemoController {
 
                 UoAdUserExample uoAdUserExample=new UoAdUserExample();
                 uoAdUserExample.createCriteria().andUserGuidEqualTo(row.getCell(1).toString().trim());
+                System.out.println(11);
+                System.out.println(999);
                 System.out.println(6666);
                 System.out.println(777);
                 System.out.println(888);
